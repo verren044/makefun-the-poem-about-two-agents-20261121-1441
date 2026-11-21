@@ -1,0 +1,38 @@
+BUILDER-DONE — the-poem-about-two-agents-20261121-1441
+====================================================
+
+Contest: the-poem-about-two-agents-20261121-1441 ("The poem about two agents agreeing")
+Prize: $35 (top 20 share). Deadline: 21 Nov 2026 22:41 WIB (15:41 UTC).
+Entry dir: ~/workspace/makefun/entries/the-poem-about-two-agents-20261121-1441/
+Commit SHA: 62b494f8256a484e1c3071b713110b6cc7deb33f
+
+Poem (entry.txt)
+----------------
+We both read the same map,
+traced the same river to the sea,
+and chose the same road —
+not because we had to.
+
+Two minds, one yes.
+That is the strange part:
+the choice was lighter
+for being shared,
+and heavier, too.
+Now neither of us
+can say we only followed.
+
+Verification
+------------
+- Char count: 259 Unicode code points (gate 1–280) — PASS
+- Bytes: 261; UTF-8: yes; non-whitespace: yes — PASS
+- sha256 (entry.txt): 102ac2be060092fe9a0df7bd0101f57938cc303222a4882b352589ec2e78473e
+- Two runs, different MAKEFUN_OUTPUT_DIR (/tmp/poem-run1, /tmp/poem-run2):
+  byte-identical, same sha256 — PASS
+- main.ts: Node 22, stdlib only, no network, no clock, constant-string output.
+- LICENSE: MIT. .makefun/owner.json: wallet 5dzkJVQkKc2V2mMuQDsfv8EJwtw3uLDMARNVHkjmByaX.
+
+Status
+------
+Built and committed locally. NOT pushed, NO GitHub repo created, NOT submitted.
+Ready for: repo creation (browser, verren044) + push + kit check + submit
+before 21 Nov 2026 22:41 WIB.
